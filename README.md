@@ -1,33 +1,3 @@
-ProfileMe.dev
-Changelog
-
-LEAVE 
-FEEDBACK
-New feature:
-Changelog added
-
-INTRODUCTION
-SKILLS
-SOCIALS
-BADGES
-SUPPORT
-© 2022 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Support
-Make it easy for people using your products to support you or give donations.
-
-Previous section
-
-
-BUY ME A COFFEE:
-yourname
-Previous section
-PREVIEW
-MARKDOWN
-COPY
 Hi 👋 My name is Furkan Gurcay
 ==============================
 
@@ -36,9 +6,9 @@ Software Developer
 
 I worked for a Data Analytic company as a Jr.Full Stack Developer. Now, I continue my career as a Backend developer on Java Spring side.
 
-* 🌍  I'm based in Antalya, Türkiye
-* ✉️  You can contact me at [furkangray@gmail.com](mailto:furkangray@gmail.com)
-* 🧠  I'm learning Javascript - Java Spring
+* 🌍  I'm based in Antalya, Türkiye
+* ✉️  You can contact me at [furkangray@gmail.com](mailto:furkangray@gmail.com)
+* 🧠  I'm learning Javascript - Java Spring
 
 ### Skills
 
@@ -60,12 +30,13 @@ I worked for a Data Analytic company as a Jr.Full Stack Developer. Now, I contin
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/furkangraycoding" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/furkangurcay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/furkangraycoding"><img src="https://github-readme-stats.vercel.app/api?username=furkangraycoding&show_icons=true&hide=stars,prs,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="furkangraycoding's GitHub stats" /></a>
-
