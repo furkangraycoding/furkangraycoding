@@ -4,7 +4,7 @@ Hi 👋 My name is Furkan Gurcay
 Software Developer
 ------------------
 
-I worked for a Data Analytic company as a Jr.Full Stack Developer. Now, I continue my career as a Backend developer on Java Spring side.
+I worked for a Data Analytic company as a Jr.Full Stack Developer. Now, I continue my career as a backend developer at Atmosware Inc..
 
 * 🌍  I'm based in Antalya, Türkiye
 * ✉️  You can contact me at [furkangray@gmail.com](mailto:furkangray@gmail.com)
