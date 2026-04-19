@@ -8,13 +8,15 @@ Backend Software Engineer with 4+ years of experience in large-scale enterprise 
 
 I have hands-on experience in **Java 8 → Java 17 migration**, legacy system refactoring, and improving backend service quality in complex, integration-heavy environments.
 
-Recently, I’ve been focusing on **transaction management, distributed system design, and failure-resilient architectures**, building projects that simulate real-world backend challenges such as idempotency, consistency, and event-driven communication.
+Recently, I’ve been focusing on **transaction management, system design, and distributed system patterns**, building projects that simulate real-world backend challenges such as idempotency, consistency, and event-driven communication.
+
+In addition to my engineering work, I actively contribute to the ecosystem by **developing products, creating educational content, and mentoring junior developers**.
 
 ---
 
-* 🌍  I'm based in Antalya, Türkiye  
-* ✉️  You can contact me at [furkangray@gmail.com](mailto:furkangray@gmail.com)  
-* 🧠  Currently focusing on: Transaction Management, System Design, Distributed Systems  
+* 🌍 I'm based in Antalya, Türkiye  
+* ✉️ You can contact me at [furkangray@gmail.com](mailto:furkangray@gmail.com)  
+* 🧠 Currently focusing on: Microservices, Transaction Management, Distributed Systems, System Design  
 
 ---
 
@@ -41,17 +43,22 @@ Currently building a **transaction-aware payment system** that demonstrates:
 
 ---
 
+## 📦 Side Projects & Contributions
+
+- 📱 Developed and published a **mobile application on the App Store (Investor Club)**  [https://apps.apple.com/in/app/investor-club/id6748885287]
+- 📖 Published a **book focused on machine learning with python**  [https://www.dr.com.tr/ekitap/python-le-makine-ogrenmesi]
+- 🤝 Mentoring **new graduates and junior developers**, supporting their onboarding and career growth  
+
+---
+
 ## 🛠️ Tech Stack
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="36" height="36" alt="Spring Boot" /></a>
-<a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="OracleDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://kafka.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/apachekafka-colored.svg" width="36" height="36" alt="Kafka" /></a>
-<a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" height="36" alt="Redis" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+**Backend:** Java (8–17), Spring Boot, Hibernate/JPA  
+**Architecture:** Microservices, Monolith Modernization, REST APIs  
+**Messaging & Data:** Kafka, Redis, OracleDB, PostgreSQL  
+**DevOps & Tools:** Docker, Jenkins, GitLab CI, OpenShift  
+**Testing & Quality:** Mockito, SonarQube  
+**Observability:** Splunk, Logging & Monitoring  
 
 ---
 
