@@ -1,32 +1,75 @@
-Hi 👋 My name is Furkan Gurcay
-==============================
+Hi 👋 My name is Furkan Gürçay  
+=================================
 
-Software Developer
-------------------
+Backend Software Engineer  
+-------------------------
 
-I worked for a Data Analytic company as a Jr.Full Stack Developer. Now, I continue my career as a backend developer at Atmosware Inc..
+Backend Software Engineer with 4+ years of experience in large-scale enterprise telecom systems. Currently working on **monolith-to-microservice transformation**, focusing on **codebase modernization, maintainability, and system reliability**.
 
-* 🌍  I'm based in Antalya, Türkiye
-* ✉️  You can contact me at [furkangray@gmail.com](mailto:furkangray@gmail.com)
-* 🧠  I'm learning Javascript - Java Spring
+I have hands-on experience in **Java 8 → Java 17 migration**, legacy system refactoring, and improving backend service quality in complex, integration-heavy environments.
 
-### Skills
+Recently, I’ve been focusing on **transaction management, distributed system design, and failure-resilient architectures**, building projects that simulate real-world backend challenges such as idempotency, consistency, and event-driven communication.
+
+---
+
+* 🌍  I'm based in Antalya, Türkiye  
+* ✉️  You can contact me at [furkangray@gmail.com](mailto:furkangray@gmail.com)  
+* 🧠  Currently focusing on: Transaction Management, System Design, Distributed Systems  
+
+---
+
+## 🧠 What I Work On
+
+- Monolith → Microservice transformation  
+- Java modernization (Java 8 → 17)  
+- Legacy code refactoring & simplification  
+- Backend service development in enterprise systems  
+- AI-assisted development (testing, refactoring, best practices)  
+- Exploring distributed system patterns (idempotency, outbox, event-driven flows)  
+
+---
+
+## 🚀 Featured Focus
+
+Currently building a **transaction-aware payment system** that demonstrates:
+
+- Idempotency handling  
+- Distributed locking (Redis)  
+- Transactional Outbox Pattern  
+- Event-driven architecture (Kafka)  
+- Failure handling & retry strategies  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="36" height="36" alt="Spring Boot" /></a>
+<a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="OracleDB" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://kafka.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/apachekafka-colored.svg" width="36" height="36" alt="Kafka" /></a>
+<a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" height="36" alt="Redis" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+</p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/furkangraycoding" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/furkangurcay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+## 🤝 Connect With Me
 
-### Badges
+<p align="left">
+<a href="https://www.github.com/furkangraycoding" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+</a>
+<a href="https://www.linkedin.com/in/furkangurcay" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</a>
+</p>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/furkangraycoding"><img src="https://github-readme-stats.vercel.app/api?username=furkangraycoding&show_icons=true&hide=stars,prs,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="furkangraycoding's GitHub stats" /></a>
+## 📊 GitHub Stats
+
+<a href="http://www.github.com/furkangraycoding">
+<img src="https://github-readme-stats.vercel.app/api?username=furkangraycoding&show_icons=true&hide=stars,prs,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="furkangraycoding's GitHub stats" />
+</a>
